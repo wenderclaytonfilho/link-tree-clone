@@ -10,7 +10,7 @@
 Clone do Linktree,
 um redirecionador de links básico
 que é bastante utilizado, o objetivo desse 
-projeto foi colocar em prática os meus
+projeto foi revisar a os meus
 conhecimentos de HTML, e CSS
 
 ---
