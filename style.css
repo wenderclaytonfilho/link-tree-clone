@@ -8,7 +8,7 @@
 
 :root{
 	--bgcolor: #1C1C1C;
-	--accentcolor: #FFCC00;
+	--accentcolor: #6528E0;
 }
 
 body{
@@ -19,6 +19,8 @@ body{
 	justify-content: center;
 	align-items: center ;
 	text-align: center;
+	display: flex;
+	flex-direction: column;
 
 }
 
@@ -56,7 +58,12 @@ img{
 	justify-content: center;
 }
 
-
+footer{
+	padding-top: 50px;
+}
+footer a{
+	text-decoration: none;
+}
 
 @media (min-width: 1024px){
 	.structure{
